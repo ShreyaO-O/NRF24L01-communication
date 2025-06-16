@@ -18,11 +18,9 @@ This repository demonstrates two types of two-way communication using the **NRF2
 
 ---
 
-## 1️⃣ Arduino ↔ Raspberry Pi Communication
-
 ### 🔄 Description
 
-This setup allows **two-way communication** between an Arduino and a Raspberry Pi. The Arduino sends a message, and the Raspberry Pi acknowledges it with a response.
+This setup allows **two-way communication** between an Arduino and a Raspberry Pi and between two Arduinos. One sends a message, and the other acknowledges it with a response.
 
 ### 🛠 Hardware Required
 
